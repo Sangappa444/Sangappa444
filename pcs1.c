@@ -17,7 +17,7 @@ void main()
     int choice, item;
     while (1)
     {
-        printf("\n\n\n\n-----------Menu----------- : ");
+        printf("\n\n\n\n-----------Menu-------------: ");
         printf("\n=>1.Push an Element to Stack and Overflow demo ");
         printf("\n=>2.Pop an Element from Stack and Underflow demo");
         printf("\n=>3.Palindrome demo ");
